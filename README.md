@@ -18,7 +18,7 @@ dep ensure install
 
 ### Test it :
 
-You can modify credentials into the ```config.toml``` for credentials.
+You can modify credentials into the ```config.toml```
 
 ```
 Go run server.go
