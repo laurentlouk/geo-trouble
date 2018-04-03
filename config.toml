@@ -1,0 +1,11 @@
+# Database server 
+server="localhost:32769"
+# Database name
+database="accidents_db"
+# Server port
+port=":9090"
+# color range
+blue=[0, 25]
+green=[25, 50]
+orange=[50, 75]
+red=[75, 100]
