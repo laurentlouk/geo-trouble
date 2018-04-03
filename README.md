@@ -18,7 +18,7 @@ dep ensure install
 
 ### Test it :
 
-You can modify credentials into the ```config.toml``` for ports and conenctions.
+You can modify credentials into the ```config.toml``` for credentials.
 
 ```
 Go run server.go
@@ -34,7 +34,7 @@ http://localhost:9090/city/Montpellier/dates/2018-09-20/2018-11-29/color -> oran
 http://localhost:9090/city/Montpellier/dates/2018-02-20/2018-11-29/color -> red
 ```
 
-Dao, models, config
+Dao, models, config,
 Fonctional test are present
 
 ### Author :
