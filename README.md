@@ -9,6 +9,12 @@ You can modify the range of it.
 
 ### Prerequisites : 
 
+Using :
+
+```
+https://github.com/golang/lint
+```
+
 Install Mongodb (or dockerise it)
 
 Use dep for packages (https://github.com/golang/dep)
